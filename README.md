@@ -1,4 +1,4 @@
-# Nahzamliy (if you reverse it's my real name. Yılmazhan)
+# Nahzamliy (if you reverse it's my real name.)
 
 Hello there! 👋 I'm Yılmazhan, a passionate learner and aspiring web developer currently focusing on HTML, CSS, JavaScript, and UI/UX design.
 
